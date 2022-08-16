@@ -37,6 +37,8 @@ npm test NOME_DO_ARQUIVO
 ```
 Assim, somente os testes da função *NOME_DO_ARQUIVO* aparecerão no terminal.
 
+![Imagem dos testes](images/zoo-functions.png)
+
 O projeto trata-se de um desafio para consolidar o aprendizado das `HOFs (Higher Order Functions`, tais como `forEach()`, `map()`, `filter()`, `sort()`, `some()`, `every()` e `reduce()`.
 
 ---
